@@ -18,6 +18,7 @@
 
 - **payload:**   AND (SELECT 5294 FROM (SELECT(SLEEP(5)))bgxK)
     
-    ![Untitled](Simple%20Online%20Bidding%20System%20da2e9c6864d742d182100671c9d5abed/Untitled.png)
+    !![Untitled 1](https://github.com/yethu123/vulns-finding/assets/29069905/c3e4aeb2-12c9-4f88-a72a-80f972f98a63)
+
     
-    ![Untitled](Simple%20Online%20Bidding%20System%20da2e9c6864d742d182100671c9d5abed/Untitled%201.png)
+    !![Untitled](https://github.com/yethu123/vulns-finding/assets/29069905/f529e593-a403-4dda-a57e-c481609b74a2)
