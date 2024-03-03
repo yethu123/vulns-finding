@@ -21,5 +21,7 @@
     ```jsx
     ' AND (SELECT 5506 FROM (SELECT(SLEEP(5)))Lwfa) AND 'SvjZ'='SvjZ
     ```
-    
-    ![Untitled](Lost%20and%20Found%20Information%20System%204793204531a64b86b5225a7bc1326670/Untitled.png)
+    <img width="724" alt="Untitled" src="https://github.com/yethu123/vulns-finding/assets/29069905/63f6b18d-01e2-4273-89fc-f6cb19c3d2ae">
+
+https://github.com/yethu123/vulns-finding/assets/29069905/5ddb9600-7183-4a8f-bada-60de8af33e03
+
